@@ -1,0 +1,70 @@
+[
+  //Better Liberty
+  	{
+		"name": "Social Engineering",
+		"cost": 500,
+		"culture": 5,
+		"happiness": 2,
+		"isNationalWonder": true,
+		"uniques": ["Only available <after adopting [Social Engineering]>","Only available <in [Capital] cities>",],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Resettlement",
+		"uniques": ["Only available <after adopting [Social Engineering]>",
+			"Only available <in cities with a [Social Engineering]>",
+			"Unbuildable","Unsellable",
+			"Can be purchased for [500] [Culture] [in all cities] <(modified by game speed)>",
+		"Comment [Allows you to expel and reorganize your population.]"],
+		"requiredTech": "Radar"
+	},
+	
+	{
+		"name": "Brainwashing",
+		"uniques": ["Only available <after adopting [Social Engineering]>",
+			"Only available <in cities with a [Social Engineering]>",
+			"Unbuildable","Unsellable",
+			"Can be purchased for [500] [Culture] [in all cities] <(modified by game speed)>",
+		"Comment [Unlocks Pill Factory]",
+		"Comment [The development of drugs or a group of drugs to make the population complacent and less capable of critical thinking.]"],
+		"requiredTech": "Pharmaceuticals"
+	},
+	{
+		"name": "Newspeak",
+		"uniques": ["Only available <after adopting [Social Engineering]>",
+			"Only available <in cities with a [Social Engineering]>",
+			"Unbuildable","Unsellable",
+			"Can be purchased for [500] [Culture] [in all cities] <(modified by game speed)>",
+		
+		"[+30]% [Happiness] [in all cities]",
+		"[+30]% [Production] [in all cities]",
+		"[-30]% [Culture] [in all cities]",
+		"[-30]% [Science] [in all cities]",
+		"Comment [The manipulation and editing of the nation's primary language or languages to ensure any rebellious or treasonous thought are harder to express.]"],
+		"requiredTech": "Telecommunications"
+	},
+	{
+		"name": "Illegalize Inflation",
+		"uniques": ["Only available <after adopting [Social Engineering]>",
+			"Only available <in cities with a [Social Engineering]>",
+			"Unbuildable",
+			"Can be purchased for [500] [Culture] [in all cities] <(modified by game speed)>",
+
+			"[-40]% [Gold] [in all cities]",
+			"[+3 Gold, +2 Food, +2 Production, +2 Happiness] [in all cities]",
+		"Comment [The illegalization of inflation, keeping your currency locked at a singular fixed rate. This will have dire consequences for your economy. Are you sure you'd like to implement this?]"
+		],
+		"requiredTech": "Computers"
+	},
+	{
+		"name": "Reeducation",
+		"uniques": ["Only available <after adopting [Social Engineering]>",
+			"Only available <in cities with a [Social Engineering]>",
+			"Unbuildable","Unsellable",
+			"Can be purchased for [500] [Culture] [in all cities] <(modified by game speed)>",
+		
+		"[+2 Happiness] from all [Public School] buildings",
+		"[+4 Happiness] from all [Courthouse] buildings",
+		"Comment [To ensure the population does not rise up to the government's despotism and tyranny, they must learn to love and worship it from birth.]"],
+		"requiredTech": "Combined Arms"
+	},
