@@ -9,7 +9,7 @@
             "Domination": 10,
             "Scientific": 10
         },
-        "uniques": ["[+1 Culture] [in all cities]","[+2 Happiness] [in capital]"],
+        "uniques": ["[+2 Culture] [in all cities]","[+2 Happiness] [in capital]"],
         "policies": [
             {
                 "name": "Republic",
