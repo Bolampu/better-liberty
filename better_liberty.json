@@ -9,7 +9,7 @@
             "Domination": 10,
             "Scientific": 10
         },
-        "uniques": ["[+1 Culture] [in all cities]","[+1 Happiness] [in capital]"],
+        "uniques": ["[+1 Culture] [in all cities]","[+2 Happiness] [in capital]"],
         "policies": [
             {
                 "name": "Republic",
@@ -23,7 +23,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "Can build [all] improvements at a [+25]% rate",
+                    "Can build [all] improvements at a [+25]% rate","[-50]% maintenance costs <for [Worker] units>", 
                     "Free [Worker] appears",
                     "[-100]% weight to this choice for AI decisions"
                 ],
