@@ -59,7 +59,7 @@
                 "uniques": [
                     "[+1 Happiness] [in all cities connected to capital]",
                     "[-5]% Unhappiness from [Population] [in all non-occupied cities]",
-"[3] gold from each type of luxury resource", 
+"[+1] gold from each type of luxury resource", 
                     "[-100]% weight to this choice for AI decisions"
                 ],
                 "requires": ["Citizenship"],
