@@ -34,6 +34,7 @@
                 "name": "Collective Rule",
                 "uniques": [
                     "[+50]% Production when constructing [Settler] units [in capital]",
+"[+1 Happiness] per [2] owned cities", 
                     "Free [Settler] appears"
                 ],
                 "requires": ["Republic"],
