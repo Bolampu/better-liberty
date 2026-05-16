@@ -68,9 +68,11 @@
                 "name": "Liberty Complete",
                 "uniques": [
                     "Free Great Person",
-"[-20]% maintenance on road & railroads", 
+"[-20]% maintenance on road & railroads",
+                     "[+15]% growth [in all cities]",
                     "Get the leader title of [Consul [leaderName]]"
                 ]
             }
         ]
     },
+]
