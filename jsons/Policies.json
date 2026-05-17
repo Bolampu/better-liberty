@@ -26,7 +26,7 @@
                 "name": "Citizenship",
                 "uniques": [
                     "Can build [all] improvements at a [+25]% rate",
-"[-50]% maintenance costs <for [Worker] units>", 
+"[+1 Production] from every [Worker]", 
                     "Free [Worker] appears",
                     "[-100]% weight to this choice for AI decisions"
                 ],
